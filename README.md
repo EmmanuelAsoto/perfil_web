@@ -14,7 +14,8 @@ A public web page with six sections:
 | Section | What goes there |
 |---|---|
 | Home |Emmanuel Andres Soto Peña, student, https://emmanuelasoto.github.io/perfil_web/# |
-| About | I like playing video games, I like watching movies, I enjoy cooking. |
+| About | I am a Systems Engineering student at UniEspinal, interested in web development and software projects. I enjoy learning new technologies and improving my programming skills.
+I like playing video game |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
