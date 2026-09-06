@@ -14,9 +14,7 @@ A public web page with six sections:
 | Section | What goes there |
 |---|---|
 | Home |Emmanuel Andres Soto Peña, student,  |
-| About | I like playing video games.
-I like watching movies.
-I enjoy cooking. |
+| About | I like playing video games, I like watching movies, I enjoy cooking. |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
