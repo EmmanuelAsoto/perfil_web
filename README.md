@@ -13,7 +13,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home |Emmanuel Andres Soto Peña, student,  |
+| Home |Emmanuel Andres Soto Peña, student, https://emmanuelasoto.github.io/perfil_web/# |
 | About | I like playing video games, I like watching movies, I enjoy cooking. |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
