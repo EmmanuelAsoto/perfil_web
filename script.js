@@ -130,7 +130,7 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "traduce >I have learned basic programming and networking.",
+  "edu.1.text":  "I have learned basic programming and networking.",
   "edu.2.title": "Systems Technician",
   "edu.2.text":  "I have learned basic programming and networking, which help me create software and understand how computers connect and communicate.",
 
