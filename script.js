@@ -76,7 +76,7 @@ const ES = {
   "contact.title":         "Contacto",
   "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
   "contact.emailLabel":    "Correo",
-  "contact.linkedinValue": "[Tu perfil profesional]",
+  "contact.linkedinValue": "a",
 
   "footer.note": "emmmanuel soto · Técnico Profesional en Programación Web · UniEspinal"
 };
@@ -150,7 +150,7 @@ const EN = {
   "contact.title":         "Contact",
   "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
   "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "[Your professional profile]",
+  "contact.linkedinValue": "a",
 
   "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
 };
