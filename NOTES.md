@@ -1,8 +1,8 @@
 # Translation Notes
 
-**Student:** [Your name]
-**Course:** [Inglés I / Inglés II]
-**Date:** [dd/mm/yyyy]
+**Student:** Emmanuel Andrés Soto Peña
+**Course:** Inglés I / Inglés II
+**Date:** 01/10/2026
 
 ---
 
@@ -31,7 +31,9 @@ This file is where you show that you understood those differences.
 Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
-> [Write 2–4 sentences in English.]
+> I left out my address from the English version. I removed it because an
+> English professional profile usually does not need personal information such
+> as an address. This also helps protect my privacy.
 
 ---
 
@@ -40,7 +42,10 @@ in your English version. Explain why you removed it.
 Name **one technical term** that you kept in English in both versions.
 Explain why translating it would be a bad idea.
 
-> [Write 2–4 sentences in English.]
+> I kept the technical term **framework** in English in both versions. I did not
+> translate it because it is a common technical term in software development.
+> Translating it could make the meaning less clear for people who work in
+> technology.
 
 ---
 
@@ -50,11 +55,14 @@ Name **one sentence** that was hard to write in English. Copy the Spanish
 version and your English version. Explain what you changed and why a
 word-by-word translation did not work.
 
-> Spanish: [copy your sentence here]
+> Spanish: He aprendido programación básica y redes, y quiero seguir mejorando mis conocimientos en tecnología.
 >
-> English: [copy your sentence here]
+> English: I have learned basic programming and networking, and I want to continue improving my technology skills.
 >
-> [Write 2–4 sentences in English explaining the change.]
+> I changed the sentence structure because a word-by-word translation would not
+> sound natural in English. I used **networking** for “redes” because it is the
+> common technical term in English. I also used “continue improving” because it
+> sounds more natural than translating every word directly.
 
 ---
 
@@ -64,10 +72,10 @@ You may use dictionaries, translators and AI tools. But you must say so here.
 
 **Which tools did you use, and for what?**
 
-> [Write your answer in English. Be specific. For example: "I used
-> Cambridge Dictionary to check the difference between *develop* and
-> *design*." Or: "I used a translator for a first version of the About
-> section, and then I rewrote it because it sounded too formal."]
+> I used **Google Translate** to check a first version of some sentences. I also
+> used **ChatGPT** to improve the English grammar and make the sentences sound
+> more natural and simple. I checked the technical words to make sure they were
+> appropriate for a Systems Engineering profile.
 
 ---
 
