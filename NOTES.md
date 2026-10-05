@@ -31,9 +31,7 @@ This file is where you show that you understood those differences.
 Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
-> I left out my address from the English version. I removed it because an
-> English professional profile usually does not need personal information such
-> as an address. This also helps protect my privacy.
+>I translated everything from English to Spanish, without exception.
 
 ---
 
