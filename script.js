@@ -60,10 +60,10 @@ const ES = {
   "edu.2.title": "Tecnico en sistemas",
   "edu.2.text":  "He aprendido programación básica y redes, lo que me ayuda a crear software y comprender cómo se conectan y se comunican las computadoras.",
 
-  "exp.1.title": "[Rol o tipo de proyecto]",
-  "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
-  "exp.2.title": "[Rol o tipo de proyecto]",
-  "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.1.title": "Rol o tipo de proyecto",
+  "exp.1.text":  "Qué hiciste, con qué herramientas y qué resultado tuvo.",
+  "exp.2.title": "Rol o tipo de proyecto",
+  "exp.2.text":  "Qué hiciste, con qué herramientas y qué resultado tuvo.",
 
   "portfolio.title": "Proyectos",
   "project.1.title": "Matrices",
@@ -134,10 +134,10 @@ const EN = {
   "edu.2.title": "Systems Technician",
   "edu.2.text":  "I have learned basic programming and networking, which help me create software and understand how computers connect and communicate.",
 
-  "exp.1.title": "[Role or type of project]",
-  "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
-  "exp.2.title": "[Role or type of project]",
-  "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.1.title": "Role or type of project",
+  "exp.1.text":  "What you did, which tools you used, and what the result was.",
+  "exp.2.title": "Role or type of project",
+  "exp.2.text":  "What you did, which tools you used, and what the result was.",
 
   "portfolio.title": "Projects",
   "project.1.title": "matrices",
