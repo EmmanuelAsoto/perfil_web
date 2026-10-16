@@ -66,15 +66,15 @@ const ES = {
   "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
 
   "portfolio.title": "Proyectos",
-  "project.1.title": "[Nombre del proyecto]",
-  "project.1.text":  "[Tecnologías usadas]",
-  "project.2.title": "[Nombre del proyecto]",
-  "project.2.text":  "[Tecnologías usadas]",
-  "project.3.title": "[Nombre del proyecto]",
-  "project.3.text":  "[Tecnologías usadas]",
+  "project.1.title": "Matrices",
+  "project.1.text":  "CSS, JAVASCRIP Y HOSTING",
+  "project.2.title": "Nombre del proyecto",
+  "project.2.text":  "Tecnologías usadas",
+  "project.3.title": "Nombre del proyecto",
+  "project.3.text":  "Tecnologías usadas",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
+  "contact.intro":         "¿Tienes un proyecto o una oportunidad laboral? ¡No dudes en escribirme!",
   "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "a",
 
@@ -140,19 +140,19 @@ const EN = {
   "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
 
   "portfolio.title": "Projects",
-  "project.1.title": "[Project name]",
-  "project.1.text":  "[Technologies used]",
-  "project.2.title": "[Project name]",
-  "project.2.text":  "[Technologies used]",
-  "project.3.title": "[Project name]",
-  "project.3.text":  "[Technologies used]",
+  "project.1.title": "matrices",
+  "project.1.text":  "CSS, JAVASCRIP Y HOSTING",
+  "project.2.title": "Project name",
+  "project.2.text":  "Technologies used",
+  "project.3.title": "Project name",
+  "project.3.text":  "Technologies used",
 
   "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
+  "contact.intro":         "o you have a project or a job opportunity? Feel free to contact me!",
   "contact.emailLabel":    "Email",
   "contact.linkedinValue": "a",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "Emmanuel soto · Professional Technician in Web Programming · UniEspinal"
 };
 
 
