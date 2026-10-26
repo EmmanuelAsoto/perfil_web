@@ -27,7 +27,7 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "Soy estudiante de Ingeniería de Sistemas en UniEspinal, interesado en el desarrollo web y los proyectos de software. Me gusta aprender nuevas tecnologías y mejorar mis habilidades de programación. También me gusta jugar videojuegos.",
+  "about.text":           "Soy estudiante de Ingeniería de Sistemas, interesado en el desarrollo web y los proyectos de software. Me gusta aprender nuevas tecnologías y mejorar mis habilidades de programación. También me gusta jugar videojuegos.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "espinal, Colombia",
@@ -101,7 +101,7 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           " I am a Systems Engineering student at UniEspinal, interested in web development and software projects. I enjoy learning new technologies and improving my programming skills,I like playing video game.",
+  "about.text":           " I am a Systems Engineering student, interested in web development and software projects. I enjoy learning new technologies and improving my programming skills,I like playing video game.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "espinal, Colombia",
